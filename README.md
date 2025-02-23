@@ -1,5 +1,5 @@
 # article-retrieval
-Keyword-based Article Storage and Retrieval System
+**Keyword-based Article Storage and Retrieval System**
 
 Stores data in a hash table using keywords for efficient retrieval. \
 Implements a custom hash table with quadratic probing to handle collisions and optimized storage of keywords associated with articles. \
